@@ -1,13 +1,17 @@
 ﻿// Objetivos / Passo-a-passo
 
-// 1. Nossa calculadora deve ter a possibilidade de somar dois números
-// 2. Nossa calculadora deve ter a possibilidade de subtrair dois números
-// 3. Nossa calculadora deve ter a possibilidade de multiplicar dois números
-// 4. Nossa calculadora deve ter a possibilidade de dividir dois números
-// 5. Nossa calculadora deve permitir que o usuário continue utilizando o sistema até decidir sair
+// v1
+// 1. Nossa calculadora deve ter a possibilidade de somar dois números [x]
+// 2. Nossa calculadora deve ter a possibilidade de subtrair dois números [x]
+// 3. Nossa calculadora deve ter a possibilidade de multiplicar dois números [x]
+// 4. Nossa calculadora deve ter a possibilidade de dividir dois números [x]
+// 5. Nossa calculadora deve permitir que o usuário continue utilizando o sistema até decidir sair [x]
 
-using System.Reflection;
+// v2
+// 1. Nossa calculadora deve produzir a tabuada de um número informado [x]
+// 2. Nossa calculadora deve armazenar um historico de operaões anteriores [x]
 
+// Arrays
 string[] historicoOperacoes = new string[100];
 int contadorOperacoes = 0;
 
