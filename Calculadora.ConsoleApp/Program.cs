@@ -130,6 +130,14 @@ while (true == true)
         historicoOperacoes[contadorOperacoes] = textoOperacao;
         contadorOperacoes++;
     }
+    else
+    {
+        historicoOperacoes = new string[100];
+        contadorOperacoes = 0;
+
+        historicoOperacoes[contadorOperacoes] = textoOperacao;
+        contadorOperacoes++;
+    }
 
 
     Console.WriteLine("O resultado é: " + resultado);
