@@ -1,5 +1,7 @@
 # Calculadora
 
+![Uma calculadora que roda em terminal](./.docs/calculadora.gif)
+
 ## Projeto
 
 O projeto foi feito em C# durante as primeiras aulas do curso Back-End da [Academia do Programador](https://www.academiadoprogramador.net) 2026 

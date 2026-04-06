@@ -17,6 +17,8 @@ int contadorOperacoes = 0;
 
 while (true == true)
 {
+    Console.Clear();
+
     Console.WriteLine("----------------------------");
     Console.WriteLine("Calculadora 2026");
     Console.WriteLine("----------------------------");
@@ -145,8 +147,7 @@ while (true == true)
 
 
     Console.WriteLine("O resultado é: " + resultado);
-
+    Console.WriteLine("Pressione ENTER para voltar ao menu...");
     Console.ReadLine();
 
 }
-
